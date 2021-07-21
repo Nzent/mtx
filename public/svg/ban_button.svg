@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="682" height="130" viewBox="0 0 682 130">
+  <defs>
+    <clipPath id="clip-ban_button">
+      <rect width="682" height="130"/>
+    </clipPath>
+  </defs>
+  <g id="ban_button" clip-path="url(#clip-ban_button)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="229" height="33" transform="translate(-70.116 100.903) rotate(-45)" fill="#fbbf24"/>
+    <path id="Path_1" data-name="Path 1" d="M88.813,0H682V87.043L641.6,130H0V91.984Z" transform="translate(0)" fill="#fff"/>
+    <text id="ban_Kick" data-name="ban , Kick" transform="translate(162 86)" font-size="70" font-family="QuantumRegular, Quantum"><tspan x="0" y="0">ban </tspan><tspan y="0" font-family="SegoeUI, Segoe UI">,</tspan><tspan y="0" xml:space="preserve"> Kick</tspan></text>
+    <g id="slash-circle" transform="translate(544 40)">
+      <path id="Path_2" data-name="Path 2" d="M25,46.875A21.875,21.875,0,1,1,46.875,25,21.875,21.875,0,0,1,25,46.875ZM25,50A25,25,0,1,0,0,25,25,25,0,0,0,25,50Z"/>
+      <path id="Path_3" data-name="Path 3" d="M24.08,4.919a1.428,1.428,0,0,0-2.022,0L4.918,22.058A1.43,1.43,0,0,0,6.941,24.08L24.08,6.941a1.428,1.428,0,0,0,0-2.022Z" transform="translate(10.501 10.501)"/>
+    </g>
+  </g>
+</svg>

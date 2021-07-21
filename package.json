@@ -9,12 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@szhsin/react-menu": "^1.10.1",
+    "@tippyjs/react": "^4.2.5",
+    "formik": "^2.2.9",
+    "gridjs": "^5.0.2",
+    "gridjs-react": "^4.0.0",
     "next": "11.0.1",
+    "nextjs-progressbar": "^0.0.11",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "^17.0.2",
+    "react-medium-image-zoom": "^4.3.4"
   },
   "devDependencies": {
+    "autoprefixer": "^10.3.1",
     "eslint": "7.31.0",
-    "eslint-config-next": "11.0.1"
+    "eslint-config-next": "11.0.1",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4"
   }
 }

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="682" height="130" viewBox="0 0 682 130">
+  <defs>
+    <clipPath id="clip-admin_button">
+      <rect width="682" height="130"/>
+    </clipPath>
+  </defs>
+  <g id="admin_button" clip-path="url(#clip-admin_button)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="229" height="33" transform="translate(-70.116 100.903) rotate(-45)" fill="#fbbf24"/>
+    <path id="Path_1" data-name="Path 1" d="M88.813,0H682V87.043L641.6,130H0V91.984Z" transform="translate(0)" fill="#fff"/>
+    <text id="Admins" transform="translate(222 90)" font-size="70" font-family="QuantumRegular, Quantum"><tspan x="0" y="0">Admins</tspan></text>
+    <path id="person" d="M27,27A12.5,12.5,0,1,0,14.5,14.5,12.5,12.5,0,0,0,27,27Zm8.333-12.5A8.333,8.333,0,1,1,27,6.167,8.333,8.333,0,0,1,35.333,14.5ZM52,47.833C52,52,47.833,52,47.833,52H6.167S2,52,2,47.833,6.167,31.167,27,31.167,52,43.667,52,47.833Zm-4.167-.017a11.133,11.133,0,0,0-3.467-6.933c-2.717-2.717-7.829-5.55-17.367-5.55s-14.65,2.833-17.367,5.55a11.157,11.157,0,0,0-3.467,6.933Z" transform="translate(485 44)"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="682" height="130" viewBox="0 0 682 130">
+  <defs>
+    <clipPath id="clip-home_button">
+      <rect width="682" height="130"/>
+    </clipPath>
+  </defs>
+  <g id="home_button" clip-path="url(#clip-home_button)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="229" height="33" transform="translate(-70.116 100.903) rotate(-45)" fill="#fbbf24"/>
+    <path id="Path_1" data-name="Path 1" d="M88.813,0H682V87.043L641.6,130H0V91.984Z" transform="translate(0)" fill="rgba(255,255,255,0.9)"/>
+    <text id="Home" transform="translate(205 90)" font-size="70" font-family="QuantumRegular, Quantum"><tspan x="0" y="0">Home</tspan></text>
+    <path id="house-door" d="M27.862,1.564a1.923,1.923,0,0,0-2.723,0L2.062,24.641A1.923,1.923,0,0,0,1.5,26V52.926a1.923,1.923,0,0,0,1.923,1.923H20.731a1.923,1.923,0,0,0,1.923-1.923V37.541h7.692V52.926a1.923,1.923,0,0,0,1.923,1.923H49.577A1.923,1.923,0,0,0,51.5,52.926V26a1.923,1.923,0,0,0-.562-1.362l-5.208-5.2V6.772a1.923,1.923,0,0,0-1.923-1.923H39.962a1.923,1.923,0,0,0-1.923,1.923v4.973ZM5.346,51V26.8L26.5,5.645,47.654,26.8V51H34.192V35.618a1.923,1.923,0,0,0-1.923-1.923H20.731a1.923,1.923,0,0,0-1.923,1.923V51Z" transform="translate(403.5 37.076)"/>
+  </g>
+</svg>

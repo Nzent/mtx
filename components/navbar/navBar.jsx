@@ -7,7 +7,7 @@ import {
 } from '@szhsin/react-menu';
 import '@szhsin/react-menu/dist/index.css';
 import Image from "next/image";
-export default function navBar() {
+export default function navbar() {
 
     return (
         <>

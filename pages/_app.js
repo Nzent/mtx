@@ -1,5 +1,5 @@
 import 'tailwindcss/tailwind.css'
-import Layout from '../components/layout'
+import Layout from '../components/layout/layout'
 import Head from 'next/head'
 import "gridjs/dist/theme/mermaid.min.css";
 import '../styles/globals.css'

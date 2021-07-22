@@ -1,7 +1,7 @@
 export default function footer() {
     return (
         <>
-            <footer className='w-full bg-white text-center p-2 bottom-0 absolute opacity-50'>© Copyright Team MTX</footer>
+            <footer className='w-full bg-white text-white text-center p-1 bottom-0 fixed bg-opacity-50 mt-96'>© Copyright Team MTX</footer>
         </>
     )
 };

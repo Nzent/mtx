@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function aboutcard() {
     return(
         <>
-            <div className='bg-white p-4 rounded-md text-center shadow-lg w-6/12'>
+            <div className='bg-white p-4 rounded-md text-center shadow-lg w-full md:w-10/12 lg:w-6/12'>
                 <h1 className='text-2xl'>Join with MATRIX clan today !</h1>
                    <div>
                        <h1 className='text-yellow-400'>LINKS</h1>

@@ -36,6 +36,9 @@ export default function screenshots() {
                     <div>
                         <Sscard src='/images/ss.webp' date='07/14/21' map='Crash' playerName="Indunil" time='1:11 PM' key='1' />
                     </div>
+                    <div>
+                        <Sscard src='/images/ss.webp' date='07/14/21' map='Crash' playerName="Indunil" time='1:11 PM' key='1' />
+                    </div>
                 </div>
             </section>
         </>

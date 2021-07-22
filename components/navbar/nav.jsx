@@ -44,7 +44,7 @@ export default function navbar() {
                 </div>
                 {/* Right */}
                 <div>
-                    <Link href='/screen/auth'><a><Image src="/icons/auth.svg" alt="" width={20} height={20} /></a></Link>
+                    <Link href='/screen/auth' className='flex items-center m-auto '><a>Auth</a></Link>
                 </div>
             </nav>
         </>

@@ -19,7 +19,7 @@ function MyApp({ Component, pageProps }) {
         <meta name="description" content="Cod4 Matrix TDM official gaming clan website" />
         <meta name="keywords" content="Gaming,TDM,Matrix,cod4,clan,nisalk,gamers,gamer,game,pc game,shooter" />
         <meta name="robots" content="index, follow" />
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="language" content="English" />
         <meta name="author" content="nisalk" />
         <meta name="theme-color" content="#ffffff" />

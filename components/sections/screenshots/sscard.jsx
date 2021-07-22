@@ -4,7 +4,7 @@ import 'react-medium-image-zoom/dist/styles.css'
 export default function sscard({ src, playerName, date, time, map }) {
     return (
         <>
-            <div className='bg-black bg-opacity-50 p-1 border rounded-md hover:shadow-md hover:scale-95 transform duration-200 cursor-pointer backdrop-filter backdrop-blur-md'>
+            <div className='bg-black bg-opacity-50 p-1 border-0 rounded-md hover:shadow-md hover:scale-95 transform duration-200 cursor-pointer backdrop-filter backdrop-blur-md'>
                 <div>
                     <Zoom transitionDuration={300}>
                         <Image src={src} layout='intrinsic' alt={src} width={960} height={540}/>

@@ -63,8 +63,8 @@ export default function logincard() {
                                     {errors.password && touched.password && errors.password}
                                 </div>
                                 <div className='mt-4'>
-                                    <button type="submit" disabled={isSubmitting} className=''>
-                                        <Image src="/icons/submit_button.svg" alt="submit" width={40} height={40} />
+                                    <button type="submit" disabled={isSubmitting} className='hover:opacity-50 transition duration-300'>
+                                        <Image src="/icons/submit_button.svg" alt="submit" width={200} height={50} />
                                     </button>
                                 </div>
                             </form>
